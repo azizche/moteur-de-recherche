@@ -7,8 +7,11 @@ Un moteur de recherche d'image qui se base sur les descripteurs de texture et le
 ### Explication du contenu des fichiers
 
 -utils.py: Contient les fonctions qui permettent de génerer les descripteurs de texture et de couleur des differentes images et de mesurer les similarités entre eux
+
 -img_descriptors.json: Contient les descripteurs de couleur de toutes les images
+
 -img_indices.json: Contient les descripteurs de texture de toutes les images
+
 -app.py: Le code de l'application finale (On a utilisé PyQt5 pour génerer l'interface graphique)
 
 ### Utilisation
